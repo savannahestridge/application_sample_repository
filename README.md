@@ -1,4 +1,4 @@
-# Lab 2: Survival Analysis of Political Leaders' Time in Office
+# Survival Analysis of Political Leaders' Time in Office
 
 **Course:** QMSS GR5016 – Time Series, Panel Data & Forecasting <br>
 **Author:** Savannah Estridge <br>
