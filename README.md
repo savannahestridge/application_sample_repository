@@ -1,10 +1,13 @@
 # Lab 2: Survival Analysis of Political Leaders' Time in Office
 
-**Course:** QMSS GR5016 – Time Series, Panel Data & Forecasting
-**Author:** Savannah Estridge
+**Course:** QMSS GR5016 – Time Series, Panel Data & Forecasting <br>
+**Author:** Savannah Estridge 
+<br>
 **Term:** Columbia University – Fall 2026
 
 ## Overview
+
+> **For the full analysis and code, see [`survival_analysis_example.ipynb`](survival_analysis_example.ipynb).**
 
 Survival analysis (time-to-event analysis) asks two related questions: how long it takes for an event to occur, and which factors raise or lower the risk of that event. Using the Democracy and Dictatorship dataset (Cheibub, Gandhi & Vreeland, 2010), available in the `lifelines` package, this project analyzes how long political leaders stay in office and which factors make them more or less likely to leave power.
 
